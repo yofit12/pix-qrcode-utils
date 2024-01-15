@@ -1,4 +1,4 @@
-#PIX QRCODE Utilities
+#Vb Utilities
 A set of utilities for creating, parsing, reading and testing PIX-compatible QR Codes.
 
 Consists of multiple sub-projects within a mono-repo (packages subdirectory)
